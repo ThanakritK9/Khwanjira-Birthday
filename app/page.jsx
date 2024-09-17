@@ -48,7 +48,7 @@ export default function page() {
         </div>
       )}
 
-      <div className="w-[330px] h-[610px] flex flex-col justify-center items-center mb-5 max-[380px]:w-[300px] max-[380px]:h-[390px]">
+      <div className="w-[330px] h-[510px] flex flex-col justify-center items-center mb-5 max-[380px]:w-[300px] max-[380px]:h-[390px]">
         <div className="flex justify-center">
           <Image
             src="/image/18th hbd.png"
