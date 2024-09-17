@@ -6,13 +6,13 @@ import Link from 'next/link';
 function page() {
   return (
     <main className="w-full h-screen flex flex-col justify-center items-center bg-[#161D23] z-0">
-      <div className="w-[330px] h-[510px] flex flex-col justify-center items-center mb-5 text-white text-2xl text-center max-[380px]:w-[300px] max-[380px]:h-[390px] max-[380px]:text-xl">
+      <div className="w-[330px] h-[450px] flex flex-col justify-center items-center mb-5 text-white text-2xl text-center max-[380px]:w-[300px] max-[380px]:h-[390px] max-[380px]:text-xl">
         <p>ฟู่ว~~ เทียนดับแล้ว</p>
         <p>พอจะทำคนเก่งของพี่ยิ้มได้ไหมเอ่ย ?</p>
-        <div className="flex justify-center mt-1">
+        <div className="flex justify-center mt-2">
           <Image
             src="/image/wish.png"
-            width={330}
+            width={280}
             height={330}
             class="object-contain object-center"
           />

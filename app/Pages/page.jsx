@@ -31,11 +31,11 @@ function page() {
     return (
         <main div className="w-full h-screen flex flex-col justify-center items-center bg-[#161D23] z-0">
             <div>
-                <div className="w-[330px] h-[510px] flex flex-col justify-center items-center mb-5 text-white text-2xl text-center max-[380px]:w-[300px] max-[380px]:h-[390px] max-[380px]:text-xl">
+                <div className="w-[330px] h-[450px] flex flex-col justify-center items-center mb-5 text-white text-2xl text-center max-[380px]:w-[300px] max-[380px]:h-[390px] max-[380px]:text-xl">
                     <p>สุขสันต์วันเกิดหนาค้าบ</p>
                     <p>ข้าวหอมคนเก่ง ในวัย 18 ปี ของพี่</p>
                     <div className="flex flex-col justify-center items-center">
-                        <video controls onEnded={handleVideoEnd} ref={videoRef} className="w-[232px] h-[410px] mt-6 max-[380px]:w-[176px] max-[380px]:h-[310px] max-[380px]:mt-3">
+                        <video controls onEnded={handleVideoEnd} ref={videoRef} className="w-[197px] h-[350px] mt-5 max-[380px]:w-[176px] max-[380px]:h-[310px] max-[380px]:mt-3">
                             <source src="/video/Video-HBD.mp4" type="video/mp4" />
                             Your browser does not support the video tag.
                         </video>

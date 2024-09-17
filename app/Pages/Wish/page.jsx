@@ -6,7 +6,7 @@ import Link from 'next/link';
 function page() {
   return (
     <main className="w-full h-screen flex flex-col justify-center items-center bg-[#161D23] z-0">
-      <div className="w-[330px] h-[510px] flex flex-col justify-center items-center mb-5 text-white text-2xl text-center max-[380px]:w-[300px] max-[380px]:h-[390px] max-[380px]:text-xl">
+      <div className="w-[330px] h-[450px] flex flex-col justify-center items-center mb-5 text-white text-2xl text-center max-[380px]:w-[300px] max-[380px]:h-[390px] max-[380px]:text-xl">
         <p>มาถึงหน้านี้แล้ว</p>
         <p>หลับตาอธิษฐานหนาค้าบ</p>
         <div className="w-[330px] h-[610px] flex flex-col justify-center items-center mb-5 max-[380px]:w-[300px] max-[380px]:h-[390px]">
