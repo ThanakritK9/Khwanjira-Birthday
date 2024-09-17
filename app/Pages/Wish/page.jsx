@@ -10,7 +10,7 @@ function page() {
         <p>มาถึงหน้านี้แล้ว</p>
         <p>หลับตาอธิษฐานหนาค้าบ</p>
         <div className="w-[330px] h-[610px] flex flex-col justify-center items-center mb-5 max-[380px]:w-[300px] max-[380px]:h-[390px]">
-        <div className="flex justify-center mt-3 max-[380px]:mt-1">
+        <div className="flex justify-center">
           <Image
             src="/image/18th fire.png"
             width={330}
