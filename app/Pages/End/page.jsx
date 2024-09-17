@@ -11,7 +11,7 @@ function page() {
         <p>พอจะทำคนเก่งของพี่ยิ้มได้ไหมเอ่ย ?</p>
         <div className="flex justify-center mt-2">
           <Image
-            src="/image/wish.png"
+            src="/image/18th wish.png"
             width={280}
             height={330}
             class="object-contain object-center"
