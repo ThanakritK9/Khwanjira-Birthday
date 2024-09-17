@@ -1,0 +1,10 @@
+// {
+//   "extends": "next/core-web-vitals"
+// }
+//.eslintrc
+{
+  "extends": [
+    "some-other-config-you-use",
+    "prettier"
+  ]
+}
